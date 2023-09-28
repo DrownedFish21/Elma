@@ -1,0 +1,5 @@
+User{uid=1,userName=张三,passWord=123456,age=12,phone=123,price=124410.0}
+User{uid=2,userName=张四,passWord=123,age=45,phone=158,price=10000.0}
+User{uid=3,userName=李四,passWord=123,age=12,phone=111,price=0.0}
+User{uid=4,userName=被淹死的小鱼,passWord=123456,age=20,phone=18836190933,price=0.0}
+User{uid=5,userName=八嘎王子,passWord=123456,age=12,phone=121212,price=0.0}
